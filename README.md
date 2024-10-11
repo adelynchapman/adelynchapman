@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on arcgis projects
 - 📫 How to reach me: arhchapman@gmail.com
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I once had four house rabbits
+- ⚡ Fun fact: I've had four house rabbits
 
 <!---
 adelynchapman/adelynchapman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
