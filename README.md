@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @adelynchapman
 - 👀 I’m interested in arcgis for environmental management purposes
-- 🌱 I’m currently learning python, arcpy, and R
+- 🌱 I’m am working with and always learning python, arcpy, and R
 - 💞️ I’m looking to collaborate on arcgis projects
-- 📫 How to reach me: arhchapman@gmail.com
-- 😄 Pronouns: she/they
+- 📫 How to reach me: addyhchapman@gmail.com
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I've had four house rabbits
 
 <!---
